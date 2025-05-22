@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+models/*.pkl
+*.pkl
+*.joblib
+
+# VS Code
+.vscode/
+
+# Ignore dataset files
+data/
+data/*csv
+
+#Ignore reports
+reports/
